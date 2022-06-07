@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T04:28:37.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="BMy0tgd8DxD7610LtzIb" version="19.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T04:29:56.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="iur9QuZwr7F6yrBbNhJh" version="19.0.1" type="github">
   <diagram id="FrpqA4lioRceH0RXlm3o" name="Page-1">
     <mxGraphModel dx="2071" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="9osVyYhxYjHQ3zbk7Auo-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-110" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9osVyYhxYjHQ3zbk7Auo-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9osVyYhxYjHQ3zbk7Auo-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Servo motor&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="380" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
